@@ -18,6 +18,7 @@ public class Switch {
         } else {
             grade = "D";
         }
+
         System.out.println("Grade kamu adalah :" + grade);
     }
 }
